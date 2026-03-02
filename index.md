@@ -1,4 +1,4 @@
-# Patacode
+![Main title](/assets/images/patacode-pseudo-blinking.gif)
 
 Software Engineer • Nerd • Passionate
 
