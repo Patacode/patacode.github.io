@@ -1,7 +1,6 @@
 # Patacode
 
 Software Engineer • Nerd • Passionate
-Personal Github Pages website exposing all my projects and achievements
 
 ---
 
