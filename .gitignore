@@ -1,2 +1,8 @@
 # vscode
-.vscode
+.vscode/
+
+# ruby gems
+vendor/
+
+# jekyll
+_site/
