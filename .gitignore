@@ -1,8 +1,9 @@
 # vscode
 .vscode/
 
-# ruby gems
+# ruby
 vendor/
+Gemfile.lock
 
 # jekyll
 _site/
